@@ -18,6 +18,9 @@ npm run dev
 # build for production with minification
 npm run build
 
+
+
+
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
@@ -53,7 +56,7 @@ npm run build --report
    数据存储
 
 7，modal弹出框为通用组件
-
+```
 图片预览：
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/index.png)
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/login.png)
@@ -62,3 +65,5 @@ npm run build --report
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/address.png)
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/orderConfim.png)
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/success.png)
+
+
