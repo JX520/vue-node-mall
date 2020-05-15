@@ -53,3 +53,12 @@ npm run build --report
    数据存储
 
 7，modal弹出框为通用组件
+
+图片预览：
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/index.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/login.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/cart.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/addCart.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/address.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/orderConfim.png)
+![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/success.png)
