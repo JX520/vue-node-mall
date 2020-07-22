@@ -34,28 +34,6 @@ npm run build --report
 购物车可以进行删减，数量添加；
 
 地址管理可以管理地址，设置默认地址
-
-
-
-项目中涉及的技术：
-
-1，使用Vue-Cli创建项目模板
-
-2，登录状态和购物车数量等状态在每个页面
-   都需要使用，使用Vuex来集中管理
-
-3，vue-router实现前端页面路由跳转
-
-4，使用Axios来实现数据接收和页面渲染
-
-5，后端通过Node.js进行实现，通过
-   Express框架实现后端的REST接口，并以
-   json的形式进行输出
-
-6，MongoDB以最常用的数据传输格式json进行
-   数据存储
-
-7，modal弹出框为通用组件
 ```
 图片预览：
 ![图片](https://github.com/JX520/vue-node-mall/blob/master/Img/index.png)
